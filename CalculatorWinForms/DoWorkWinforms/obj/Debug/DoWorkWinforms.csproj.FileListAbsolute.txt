@@ -1,0 +1,10 @@
+C:\Users\vrcha\OneDrive\Documents\Visual Studio 2017\Projects\DoWorkWinforms\DoWorkWinforms\bin\Debug\DoWorkWinforms.exe.config
+C:\Users\vrcha\OneDrive\Documents\Visual Studio 2017\Projects\DoWorkWinforms\DoWorkWinforms\bin\Debug\DoWorkWinforms.exe
+C:\Users\vrcha\OneDrive\Documents\Visual Studio 2017\Projects\DoWorkWinforms\DoWorkWinforms\bin\Debug\DoWorkWinforms.pdb
+C:\Users\vrcha\OneDrive\Documents\Visual Studio 2017\Projects\DoWorkWinforms\DoWorkWinforms\obj\Debug\DoWorkWinforms.csprojResolveAssemblyReference.cache
+C:\Users\vrcha\OneDrive\Documents\Visual Studio 2017\Projects\DoWorkWinforms\DoWorkWinforms\obj\Debug\DoWorkWinforms.Form1.resources
+C:\Users\vrcha\OneDrive\Documents\Visual Studio 2017\Projects\DoWorkWinforms\DoWorkWinforms\obj\Debug\DoWorkWinforms.Properties.Resources.resources
+C:\Users\vrcha\OneDrive\Documents\Visual Studio 2017\Projects\DoWorkWinforms\DoWorkWinforms\obj\Debug\DoWorkWinforms.csproj.GenerateResource.Cache
+C:\Users\vrcha\OneDrive\Documents\Visual Studio 2017\Projects\DoWorkWinforms\DoWorkWinforms\obj\Debug\DoWorkWinforms.csproj.CoreCompileInputs.cache
+C:\Users\vrcha\OneDrive\Documents\Visual Studio 2017\Projects\DoWorkWinforms\DoWorkWinforms\obj\Debug\DoWorkWinforms.exe
+C:\Users\vrcha\OneDrive\Documents\Visual Studio 2017\Projects\DoWorkWinforms\DoWorkWinforms\obj\Debug\DoWorkWinforms.pdb
